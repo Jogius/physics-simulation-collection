@@ -16,4 +16,5 @@
 .App .body {
   height: 92vh;
   width: 100vw;
+  padding-top: 8vh;
 }
